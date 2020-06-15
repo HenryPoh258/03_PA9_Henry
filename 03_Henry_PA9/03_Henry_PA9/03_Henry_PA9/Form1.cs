@@ -21,6 +21,8 @@ namespace _03_Henry_PA9
         {
             decimal US = 0.74m;
             decimal Japan = 81.97m;
+            decimal Malaysia = 3.01m;
+
             decimal answer;
 
             try
@@ -41,6 +43,17 @@ namespace _03_Henry_PA9
                     answer = first * Japan;
                     txt_Converted.Text = answer.ToString();
                 }
+
+                else if (rb_Ringgit.Checked)
+                {
+                    answer = first * Malaysia;
+                    txt_Converted.Text = answer.ToString();
+                }
+
+                else
+                {
+                    MessageBox.Show("Please select one of the currency");
+                }
             }
             catch (FormatException)
             {
@@ -54,6 +67,12 @@ namespace _03_Henry_PA9
             txt_Converted.Clear();
             rb_US.Checked = false;
             rb_Yen.Checked = false;
+            rb_Ringgit.Checked = false;
+        }
+
+        private void Rb_Ringgit_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
