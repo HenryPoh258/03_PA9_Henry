@@ -1,0 +1,9 @@
+C:\Users\Terry\Desktop\03_Henry_PA9\03_Henry_PA9\03_Henry_PA9\bin\Debug\03_Henry_PA9.exe.config
+C:\Users\Terry\Desktop\03_Henry_PA9\03_Henry_PA9\03_Henry_PA9\bin\Debug\03_Henry_PA9.exe
+C:\Users\Terry\Desktop\03_Henry_PA9\03_Henry_PA9\03_Henry_PA9\bin\Debug\03_Henry_PA9.pdb
+C:\Users\Terry\Desktop\03_Henry_PA9\03_Henry_PA9\03_Henry_PA9\obj\Debug\03_Henry_PA9.csprojAssemblyReference.cache
+C:\Users\Terry\Desktop\03_Henry_PA9\03_Henry_PA9\03_Henry_PA9\obj\Debug\_03_Henry_PA9.Form1.resources
+C:\Users\Terry\Desktop\03_Henry_PA9\03_Henry_PA9\03_Henry_PA9\obj\Debug\_03_Henry_PA9.Properties.Resources.resources
+C:\Users\Terry\Desktop\03_Henry_PA9\03_Henry_PA9\03_Henry_PA9\obj\Debug\03_Henry_PA9.csproj.GenerateResource.cache
+C:\Users\Terry\Desktop\03_Henry_PA9\03_Henry_PA9\03_Henry_PA9\obj\Debug\03_Henry_PA9.exe
+C:\Users\Terry\Desktop\03_Henry_PA9\03_Henry_PA9\03_Henry_PA9\obj\Debug\03_Henry_PA9.pdb
